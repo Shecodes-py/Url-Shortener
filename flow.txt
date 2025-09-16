@@ -1,0 +1,4 @@
+#
+    frontend                    backend                 display
+        l
+Users --> sends long link --> Process --> Gets short link
