@@ -3,7 +3,7 @@ const express = require('express');
 const moongoose = require('mongoose');
 
 const app = express();
-const port = 8000;
+const port = 5000;
 
 app.use(express.json()) // middleware-parsing
 
